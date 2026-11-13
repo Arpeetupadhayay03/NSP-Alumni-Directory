@@ -1,0 +1,9 @@
+*.class
+bin/
+out/
+*.log
+.idea/
+*.iml
+*.tmp
+.env
+/NSP project 007 - Alumni Directory (Arpeet)/
